@@ -6,7 +6,7 @@
 
 ## Description
 
-_This website displays "Hello, World in multiple languages, including English, Spanish, Japanese, French, Kinyarwanda, German, Pig Latin in unordered list._
+_This website displays "Hello, World" in multiple languages, including English, Spanish, Japanese, French, Kinyarwanda, German, Pig Latin in unordered list._
 
 ## Setup/Installation Requirements
 
