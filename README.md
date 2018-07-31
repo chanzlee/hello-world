@@ -1,12 +1,12 @@
-# _{Hello World Webpage}_
+# _Hello World Webpage_
 
-#### _{Html Exercise for Epicodus}, {07.30.2018}_
+#### _Html Exercise for Epicodus, 07.30.2018_
 
-#### By _**{Chan Lee Brian Nelson}**_
+#### By _**Chan Lee Brian Nelson**_
 
 ## Description
 
-_{This website displays "Hello, World in multiple languages, including English, Spanish, Japanese, French, Kinyarwanda,German, Pig Latin in unordered list.}_
+_This website displays "Hello, World in multiple languages, including English, Spanish, Japanese, French, Kinyarwanda,German, Pig Latin in unordered list._
 
 ## Setup/Installation Requirements
 
@@ -15,16 +15,16 @@ _{This website displays "Hello, World in multiple languages, including English, 
 
 ## Known Bugs
 
-_{There are no known bugs.}_
+_There are no known bugs._
 
 ## Support and contact details
 
-_{ChanEthanLee@gmail.com}_
+_ChanEthanLee@gmail.com_
 
 ## Technologies Used
 
-_{HTML}_
+_HTML_
 
 ### License
 
-Copyright (c) 2018 **_{Chan Lee Brian Nelson}_**
+Copyright (c) 2018 **_Chan Lee Brian Nelson_**
